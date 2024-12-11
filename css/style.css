@@ -11,19 +11,12 @@
 
 
 /* MAIN SECTION */
+/* main container */
 .ms-big-box {
     margin-bottom: 20px;
 
 
     height: 500px;
     background-color: aquamarine;
-    width: 100%;
-}
-
-.ms-small-box {
-    margin-bottom: 20px;
-
-    height: 400px;
-    background-color: aqua;
     width: 100%;
 }
